@@ -11,9 +11,9 @@ title                    : "Runze Yan"
 title_separator          : "-"
 name                     : &name "Runze Yan"
 description              : &description "personal description"
-url                      : "https://Runz96.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://runz96.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Runz96/Runz96.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "cQonRfZlV5haaOvWmpv88Hce1EpPO0BQjywaW0Cs0Ig"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
