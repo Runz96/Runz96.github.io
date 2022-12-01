@@ -50,12 +50,6 @@ Patent
 * Afsaneh Doryab, **Runze Yan**, and Xinwen Liu. "System, Method and Computer Readable Medium for Modeling Biobehavioral Rhythms from Mobile and Wearable Data Streams." U.S. Patent Application No. 17/398,097.
 
 
-Working Papers
-======
-* Stability Measurement of Biobehavioral Rhythm from Multimodal Sensor Streams (First author) 
-* Similarity Measurement of Cyclic Multimodal Mobile Time Series Data with Case Studies in Biobehavioral Rhythms (First author) 
-* Transferable Convolutional Neural Wavelet Transform for Modeling Multimodal Cyclic Time Series (First author) 
-
 Related Courses
 ======
 * SYS 6582 Reinforcement Learning  
