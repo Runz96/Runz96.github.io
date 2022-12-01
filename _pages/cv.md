@@ -23,11 +23,6 @@ Experience
 * Fall 2020: Teaching Assistant
   * SYS 4581/6581: AI for Social Good
   
-* Summer 2017: Internship in Software Test (IC Products)
-  * ZTE Corporation, Beijing, China
-  * Duties included: engament in the LTE optimization including the method of data configuration and service fulfillment.
-
-
 Published Papers
 ======
 * **Runze Yan**, Xinwen Liu, Janine Dutcher, Michael Tumminia, Daniella Villalba, Sheldon Cohen, David Creswell et al. "A Computational Framework for Modeling Biobehavioral Rhythms from Mobile and Wearable Data Streams." ACM Transactions on Intelligent Systems and Technology (TIST) 13, no. 3 (2022): 1-27. 
