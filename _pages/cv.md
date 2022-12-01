@@ -59,7 +59,8 @@ Related Courses
 * CS 6501 Text Mining
 * SYS 6003 Optimization Models & Method
 
-SKILLS 
+SKILLS
+======
 * Machine Learning Techniques: Sensor Signal Processing, Multimodal Time-Series Analysis, Image Processing, Statistical Model, Deep Learning Model, Transfer Learning Model, Reinforcement Learning Model
 * Programming Languages: Python (Sklearn, Tensorflow, Pytorch, Keras, NumPy, SciPy, Pandas, Seaborn, NLTK), R, Java, SQL
 * Database: MySQL
