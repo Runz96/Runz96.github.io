@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Telecommunications Engineering, Beijing University of Posts and Telecommunications (BUPT), 2018
-* M.E. in Systems and Information Engineering, University of Virginia (UVa), 2019
-* Ph.D in Systems and Information Engineering, University of Virginia (UVa), 2022 (expected)
+* B.S. in Telecommunications Engineering, Beijing University of Posts and Telecommunications (BUPT), 2014 ～ 2018
+* M.E. in Systems and Information Engineering, University of Virginia (UVa), 2018 ～ 2019
+* Ph.D in Systems and Information Engineering, University of Virginia (UVa), 2020 ～ Present
 
 Experience
 ======
