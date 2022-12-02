@@ -17,12 +17,17 @@ Education
 
 Experience
 ======
-* Fall 2018 ~ Pesent: Research Assistant
-  * Human-AI Technology Lab (HAI) Lab, University of Virginia
+* Research Assistant:
+  * Human-AI Technology Lab (HAI) Lab, University of Virginia, Spring 2020 ~ Present
 
-* Fall 2020: Teaching Assistant
-  * SYS 4581/6581: AI for Social Good
+* Teaching Assistant:
+  * SYS 4581/6581: AI for Social Good, Fall 2020
+  * SYS 2202: Data and Information Engineering, Spring 2023
   
+Areas
+======
+Ubiquitous and mobile computing, Time series model, Machine learning, Deep learning, Smart health. 
+
 Published Papers
 ======
 * **Runze Yan**, Xinwen Liu, Janine Dutcher, Michael Tumminia, Daniella Villalba, Sheldon Cohen, David Creswell et al. "A Computational Framework for Modeling Biobehavioral Rhythms from Mobile and Wearable Data Streams." ACM Transactions on Intelligent Systems and Technology (TIST) 13, no. 3 (2022): 1-27. 
