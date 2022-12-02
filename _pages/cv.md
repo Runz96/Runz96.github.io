@@ -22,7 +22,7 @@ Experience
 
 * Teaching Assistant:
   * SYS 4581/6581: AI for Social Good, Fall 2020
-  * SYS 2202: Data and Information Engineering, Spring 2023
+  * SYS 2202: Data and Information Engineering, Spring 2022
   
 Areas
 ======
