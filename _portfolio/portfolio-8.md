@@ -1,6 +1,6 @@
 ---
-title: "Course Project: Bayesian Machine Learning"
-excerpt: "A Computational Framework for Modeling Biobehavioral Rhythms from Mobile and Wearable Data Streams 1<br/><img src='/images/500x300.png'>"
+title: "Course Project: Reinforcement Learning"
+excerpt: ""
 collection: portfolio
 ---
 
