@@ -1,7 +1,9 @@
 ---
 title: "Course Project: Reinforcement Learning"
-excerpt: ""
+excerpt: "Collision Avoidance Algorithm via Deep Reinforcement Learning"
 collection: portfolio
 ---
 
-* Proposed the first computational framework for modeling rhythms of human behaviors from multimodal sensor signals, including three main components: mobile sensor data processing, rhythm discovery & modeling, and machine learning prediction of health and wellbeing outcomes. The framework achieved the best performance in predicting depression and productivity.
+* Multi-agent collision-free path planning algorithm in unknown and deterministic environment.
+* Built the long short-term memory (LSTM) with the self-attention mechanism to encode the other agents' states.
+* Fed the agent’s own state and the other agents’ states into two multilayer perceptrons (MLP) to output the optimal value function and the optimal policy.
