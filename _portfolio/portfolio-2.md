@@ -1,6 +1,6 @@
 ---
 title: "Research Project: Personality Measurement"
-excerpt: "A Computational Framework for Modeling Biobehavioral Rhythms from Mobile and Wearable Data Streams 1<br/><img src='/images/fgcs.png'>"
+excerpt: "Personality Measurement from Mobile Sensor Data Using Machine Learning Approach<br/><img src='/images/fgcs.png'>"
 collection: portfolio
 ---
 

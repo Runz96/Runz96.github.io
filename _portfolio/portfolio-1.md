@@ -1,6 +1,6 @@
 ---
-title: "Research Project: Biobehavioral Rhythms Modeling"
-excerpt: "A Computational Framework for Modeling Biobehavioral Rhythms from Mobile and Wearable Data Streams 1<br/><img src='/images/tist.png'>"
+title: "Research Project: Human Behavior Modeling via Mobile Sensing"
+excerpt: "Computational Modeling of Human Behaviors from Mobile and Wearable Data<br/><img src='/images/tist.png'>"
 collection: portfolio
 ---
 
