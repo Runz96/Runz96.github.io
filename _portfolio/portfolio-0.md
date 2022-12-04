@@ -1,6 +1,6 @@
 ---
 title: "Research Project: Human Behavior Tracking System"
-excerpt: "An intelligent Data Collecting System from Personal Mobile and Wearable Devices <br/><img src='/images/500x300.png'>"
+excerpt: "An intelligent Data Collecting System from Personal Mobile and Wearable Devices <br/><img src='/images/system.png'>"
 collection: portfolio
 ---
 
