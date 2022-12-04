@@ -1,6 +1,6 @@
 ---
 title: "Research Project: Human Mobility Modeling"
-excerpt: "Human Mobility Prediction Using GPS Data <br/><img src='/images/500x300.png'>"
+excerpt: "Human Mobility Prediction Using GPS Data <br/><img src='/images/icict.png'>"
 collection: portfolio
 ---
 

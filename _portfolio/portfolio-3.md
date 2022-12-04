@@ -1,6 +1,6 @@
 ---
 title: "Research Project: Racial Bias Detection"
-excerpt: "Racial Bias Detection Using Physiological Sensor Signals<br/><img src='/images/500x300.png'>"
+excerpt: "Racial Bias Detection Using Physiological Sensor Signals<br/><img src='/images/racial.png'>"
 collection: portfolio
 ---
 
